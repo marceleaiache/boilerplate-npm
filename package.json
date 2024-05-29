@@ -1,9 +1,9 @@
 {
 	"author" : "Marcele Aiache",
 
-	"description": "A project that does something awesome",
+	"description": "A description for my project",
 
-	
+
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
