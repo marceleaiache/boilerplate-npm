@@ -1,8 +1,6 @@
 {
 	"author" : "Marcele Aiache",
-
-	"description": "A description for my project",
-
+	"description": "A short description for this project",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -16,6 +14,4 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
-
-	
 }
