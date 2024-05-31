@@ -1,6 +1,6 @@
 {
 	"author" : "Marcele Aiache",
-	"description": "A short description for this project",
+	"description": "A project that does something awesome",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
