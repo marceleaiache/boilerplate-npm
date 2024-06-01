@@ -1,9 +1,15 @@
 {
 	"author" : "Marcele Aiache",
 	"description": "A project that does something awesome",
+	"keywords": [ "panda", "emo", "freecodecamp" ],
+	"license": "MIT",
+	"version": "19.0.1",
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"@freecodecamp/example": "1.2.13", 
 		"express": "^4.14.0"
+		
 	},
 	"main": "server.js",
 	"scripts": {
@@ -14,3 +20,4 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
+
